@@ -1,4 +1,4 @@
-# Junk File Organizer
+﻿# Junk File Organizer
 
 ## Overview
   Everyone has their own favorite methodology of organizing and filing, and it’s all too easy to get into “My Way is Better than Your Way” arguments .The reality is that there is no perfect way of getting things organized.
@@ -34,4 +34,4 @@ etc.
 If user wants junk file instead of well organized file then the program is going to perform that task and if user organize a file with different type by mistake then the programmer can organize that in their choice. If user fails to provide the exact path then the program tells us to provide valid path to be executed.
 
 ## Future Improvements
-We can design the UI for the program so a normal user can easily interact with it. We can add more features like deleting the junk files after a certain period of time..
+We can design the UI for the program so a normal user can easily interact with it. We can add more features like deleting the junk files after a certain period of time..!!
